@@ -1,10 +1,10 @@
-3A Attendance System
+# 3A Attendance System
 
-Overview
+## Overview
 
 The 3A Attendance System is a comprehensive web application developed using the Django framework. It combines the power of facial recognition technology, OpenCV, and a Haar Cascade Classifier to create an efficient and user-friendly attendance tracking system. This README provides an overview of the system's features, installation instructions, and usage guidelines.
 
-Features
+## Features
 - Facial Recognition: The system uses advanced facial recognition technology powered by OpenCV to identify and track students or participants.
 - Haar Cascade Classifier: A Haar Cascade Classifier is employed to detect and locate faces within images or video streams, ensuring accurate recognition.
 - Web Interface: The system offers a web-based interface for easy administration and user interaction. You can access it through a web browser, making it accessible from anywhere.
@@ -14,7 +14,7 @@ Features
 
 
 
-Installation
+## Installation
 Prerequisites
 Before you begin, make sure you have the following prerequisites installed on your system:
 
@@ -23,23 +23,16 @@ Before you begin, make sure you have the following prerequisites installed on yo
 - OpenCV
 - Haar Cascade Classifier XML files
 
-Setup
-
+## Setup
 
 Copy code
 - python manage.py runserver
 - Open your web browser and navigate to http://127.0.0.1:8000/ to access the application.
 
-
-
-
-
-License
+## License
 This project is licensed under the MIT License.
 
-
-
-Acknowledgments
+## Acknowledgments
 
 The 3A Attendance System is made possible by the hard work of its contributors and the open-source community. We would like to acknowledge and thank the following technologies and libraries that made this project possible:
 Django
