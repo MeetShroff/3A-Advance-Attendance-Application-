@@ -18,10 +18,10 @@ Installation
 Prerequisites
 Before you begin, make sure you have the following prerequisites installed on your system:
 
-Python (3.6+)
-Django
-OpenCV
-Haar Cascade Classifier XML files
+- Python (3.6+)
+- Django
+- OpenCV
+- Haar Cascade Classifier XML files
 
 Setup
 
